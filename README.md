@@ -1,2 +1,2 @@
-# textworld-aventure
+# textworld-adventure
 python text game
